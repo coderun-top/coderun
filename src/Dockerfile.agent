@@ -1,0 +1,12 @@
+# docker build --rm -f Dockerfile.agent -t drone/agent .
+
+# FROM drone/ca-certs
+FROM r.crun.top/library/golang:1.8
+
+ENV GODEBUG=netdns=go
+ADD dist/dougo-agent /bin/
+
+EXPOSE 3000
+HEALTHCHECK CMD ["/bin/dougo-agent", "ping"]
+
+ENTRYPOINT ["/bin/dougo-agent"]

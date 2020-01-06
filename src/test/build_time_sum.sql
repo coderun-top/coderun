@@ -1,0 +1,1 @@
+select SUM(builds.build_finished-builds.build_started) from builds INNER JOIN repos ON repos.repo_id = builds.build_repo_id  where repos.repo_project_id="bggtpasruna000doap4g" and builds.build_started>0 and builds.build_finished>0;

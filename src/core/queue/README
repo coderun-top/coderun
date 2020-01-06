@@ -1,0 +1,6 @@
+Go package provides a common interface for working with task queues.
+
+Documentation:
+
+    http://godoc.org/gitlab.com/douwa/registry/dougo/src/dougo/core/queue
+    http://godoc.org/gitlab.com/douwa/registry/dougo/src/dougo/core/queue/gcp

@@ -1,6 +1,0 @@
-Go package provides a common interface for publish-subscriber messaging.
-
-Documentation:
-
-    http://godoc.org/gitlab.com/douwa/registry/dougo/src/dougo/core/pubsub
-    http://godoc.org/gitlab.com/douwa/registry/dougo/src/dougo/core/pubsub/gcp

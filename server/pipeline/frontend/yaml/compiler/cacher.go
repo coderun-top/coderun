@@ -4,7 +4,7 @@ import (
 	"path"
 	"strings"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/frontend/yaml"
+	"github.com/coderun-top/coderun/server/pipeline/frontend/yaml"
 
 	libcompose "github.com/docker/libcompose/yaml"
 )

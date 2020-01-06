@@ -3,7 +3,7 @@ package docker
 // import (
 // 	"context"
 //
-// 	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
+// 	"github.com/coderun-top/coderun/server/pipeline/backend"
 // )
 //
 // // Pool manages a pool of Docker clients.

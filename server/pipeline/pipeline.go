@@ -6,8 +6,8 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/multipart"
+	"github.com/coderun-top/coderun/server/pipeline/backend"
+	"github.com/coderun-top/coderun/server/pipeline/multipart"
 )
 
 type (

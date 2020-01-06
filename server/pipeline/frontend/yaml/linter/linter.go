@@ -3,7 +3,7 @@ package linter
 import (
 	"fmt"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/frontend/yaml"
+	"github.com/coderun-top/coderun/server/pipeline/frontend/yaml"
 )
 
 const (

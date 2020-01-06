@@ -5,8 +5,8 @@ import (
 	// "encoding/json"
 	"time"
 
-	// "gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/rpc/proto"
+	// "github.com/coderun-top/coderun/server/pipeline/backend"
+	"github.com/coderun-top/coderun/server/pipeline/rpc/proto"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"

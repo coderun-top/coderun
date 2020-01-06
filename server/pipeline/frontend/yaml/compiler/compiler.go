@@ -4,9 +4,9 @@ import (
 	"fmt"
 	//	"log"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/frontend"
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/frontend/yaml"
+	"github.com/coderun-top/coderun/server/pipeline/backend"
+	"github.com/coderun-top/coderun/server/pipeline/frontend"
+	"github.com/coderun-top/coderun/server/pipeline/frontend/yaml"
 	//	"github.com/Sirupsen/logrus"
 )
 

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
+	"github.com/coderun-top/coderun/server/pipeline/backend"
 )
 
 // Parse parses the pipeline config from an io.Reader.

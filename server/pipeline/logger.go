@@ -1,8 +1,8 @@
 package pipeline
 
 import (
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/multipart"
+	"github.com/coderun-top/coderun/server/pipeline/backend"
+	"github.com/coderun-top/coderun/server/pipeline/multipart"
 )
 
 // Logger handles the process logging.

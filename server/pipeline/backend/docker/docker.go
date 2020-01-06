@@ -5,7 +5,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
+	"github.com/coderun-top/coderun/server/pipeline/backend"
 
 	"github.com/docker/docker/api/types"
 	"github.com/docker/docker/api/types/network"

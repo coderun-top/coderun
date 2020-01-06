@@ -3,8 +3,8 @@ package yaml
 import (
 	"path/filepath"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/frontend"
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/frontend/yaml/types"
+	"github.com/coderun-top/coderun/server/pipeline/frontend"
+	"github.com/coderun-top/coderun/server/pipeline/frontend/yaml/types"
 	libcompose "github.com/docker/libcompose/yaml"
 )
 

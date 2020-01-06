@@ -5,8 +5,8 @@ import (
 	"path"
 	"strings"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/frontend/yaml"
+	"github.com/coderun-top/coderun/server/pipeline/backend"
+	"github.com/coderun-top/coderun/server/pipeline/frontend/yaml"
 )
 
 func (c *Compiler) createProcess(name string, container *yaml.Container, section string) *backend.Step {

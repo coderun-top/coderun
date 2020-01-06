@@ -3,7 +3,7 @@ package rpc
 import (
 	"context"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/backend"
+	"github.com/coderun-top/coderun/server/pipeline/backend"
 )
 
 // ErrCancelled signals the pipeine is cancelled.

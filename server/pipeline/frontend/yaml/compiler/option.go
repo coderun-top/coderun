@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gitlab.com/douwa/registry/dougo/src/dougo/core/pipeline/pipeline/frontend"
+	"github.com/coderun-top/coderun/server/pipeline/frontend"
 )
 
 // Option configures a compiler option.
